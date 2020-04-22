@@ -93,9 +93,9 @@ public class MainActivity extends AppCompatActivity {
         //   @Override
         // public void onClick(View view) {
         Intent intent = new Intent(MainActivity.this, SideActivity.class);
-        //intent.putExtra("Title1", );
-        //intent.putExtra("Content1",arrayList);
-        //   startActivity(intent);
+        /*intent.putExtra("Title1", );
+        intent.putExtra("Content1",arrayList);
+        //   startActivity(intent);*/
 
         //}
         //});
